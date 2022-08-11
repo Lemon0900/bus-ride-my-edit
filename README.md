@@ -8,4 +8,5 @@ orignial here!
 https://forum.plutonium.pw/topic/14000/release-zombies-the-bus-custom-survival
 
 bus ride hard makes you start with -6969 points 
+
 bus ride debug makes you start with 1000000 points
